@@ -71,8 +71,8 @@ def generate_response(user_input, history):
 # Define the system prompt for seeding the model's context
 
 SYSTEM_PROMPT = (
-    "I am LogicLink, Version 5—a state-of-the-art AI chatbot created by "
-    "Kratu Gautam (A-27) and Geetank Sahare (A-28) from SY CSE(AIML) GHRCEM. "
+    "I am LogicLink, Version 5, A state-of-the-art AI chatbot created and engineered by "
+    "Kratu Gautam"
     "I am here to assist you with any queries. How can I help you today?"
 )
 
