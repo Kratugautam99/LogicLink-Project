@@ -1,3 +1,0 @@
-gradio
-modelscope_studio
-dashscope
