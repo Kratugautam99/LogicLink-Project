@@ -69,12 +69,17 @@
 ### Directory Structure
 ```
 LogicLink-Project/
-├── app.py              # Main application
-├── config.py           # GUI configuration
+├── LogicLinkVersion5.ipynb
+├── README.md
+├── app.py
+├── config.py
+├── .gitattributes
+├── requirements.txt
+├── assets/
+├── Documents/
+├── Screenshots/
 ├── ui_components/
-│   ├── logo.py         # Logo component
-│   └── settings_header.py # Settings UI
-└── requirements.txt    # Dependencies
+└── Different Versions of LogicLink/  (not expanded)
 ```
 
 ---
@@ -187,8 +192,8 @@ MIT License - See [LICENSE](https://github.com/Kratugautam99/LogicLink-Project/L
 <div align="center">
   Developed with 🧠 by <b>Kratu Gautam</b> | AIML Engineer<br>
   <a href="https://github.com/Kratugautam99">GitHub</a> | 
-  <a href="https://huggingface.co/TinyLlama">Model Source</a> | 
-  <a href="https://modelscope.cn/studios">UI Framework</a>
+  <a href="https://huggingface.co/spaces/KraTUZen/LogicLink-Project-Space">HFT Space</a> | 
+  <a href="https://www.gradio.app/">UI Framework</a>
 </div>
 
 
