@@ -323,7 +323,7 @@ with gr.Blocks(css=css, fill_width=True, title="LogicLinkV5") as demo:
                     with antd.Flex(vertical=True, gap="small", elem_style=dict(height="100%")):
                         Logo()
                         with antd.Button(color="primary", variant="filled", block=True, elem_classes="new-chat-btn") as new_chat_btn:
-                            ms.Text(get_text("New Chat", "新建对话"))
+                            ms.Text(get_text("New Chat", ","))
                             with ms.Slot("icon"):
                                 antd.Icon("PlusOutlined")
                         with antdx.Conversations(elem_classes="chatbot-conversations-list") as conversations:

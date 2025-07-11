@@ -1,6 +1,8 @@
-datasets
-transformers
-accelerate
-gradio
-dashscope
-modelscope_studio
+gradio>=5.31.0
+torch==2.6.0
+transformers>=4.53.1
+safetensors>=0.5.3
+modelscope-studio>=1.4.3
+accelerate>=0.20.3
+huggingface-hub==0.33.2
+regex==2024.11.6
