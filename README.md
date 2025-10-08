@@ -12,6 +12,7 @@
 ---
 ## 🔍 Topic Index
 - [✨ Key Features](#-key-features)
+- [📸 GUI Display](#-gui-display)
 - [🛠️ Installation](#-installation)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -36,6 +37,81 @@
 | **⏱️ Single Time Stamp** | Regex-cleaned response timing `*(4.50s)*` | Consistent performance metrics |
 | **🚀 CUDA Support** | Automatic GPU detection with CPU fallback | Optimized performance |
 | **🛡️ Error Handling** | Graceful failure for memory/input issues | Robust user experience |
+
+---
+
+## 📸 GUI Display
+
+---
+
+### 💬 Full-Fledged Conversation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kratugautam99/LogicLink-Project/main/Screenshots/LogicLinkFullFledgedConversation.png" alt="LogicLink Full Conversation" width="80%" />
+</p>
+
+LogicLink engaging in a complete dialogue, handling multiple turns seamlessly.  
+This demonstrates its ability to maintain context, respond naturally, and adapt to user intent across an extended session.
+
+---
+
+### 🧑‍💻 Coding Response (Part 1)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kratugautam99/LogicLink-Project/main/Screenshots/LogicLinkCodingResponse1.png" alt="LogicLink Coding Response 1" width="80%" />
+</p>
+
+LogicLink generating a structured coding solution.  
+Notice how it explains the reasoning step-by-step, making the output not just correct but also **educational**.
+
+---
+
+### 🧑‍💻 Coding Response (Part 2)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kratugautam99/LogicLink-Project/main/Screenshots/LogicLinkCodingResponse2.png" alt="LogicLink Coding Response 2" width="80%" />
+</p>
+
+A continuation of the coding workflow, where LogicLink refines and expands on its earlier solution.  
+This shows its iterative reasoning ability — improving code quality when prompted.
+
+---
+
+### 🔑 Core Response
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kratugautam99/LogicLink-Project/main/Screenshots/LogicLinkCoreResponse.png" alt="LogicLink Core Response" width="80%" />
+</p>
+
+A snapshot of LogicLink delivering a **core logical explanation**.  
+This highlights its strength in breaking down abstract queries into clear, actionable insights.
+
+---
+
+### ⚡ While Processing
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kratugautam99/LogicLink-Project/main/Screenshots/LogicLinkWhileProcessing.png" alt="LogicLink While Processing" width="80%" />
+</p>
+
+The system mid‑inference, showing its **real-time feedback loop**.  
+This reassures users that LogicLink is actively working on their request.
+
+---
+
+### 🔄 With vs Without Latest Output Text Box
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kratugautam99/LogicLink-Project/main/Screenshots/LogicLinkwithLOTB.png" alt="LogicLink with LOTB" width="45%" />
+  <img src="https://raw.githubusercontent.com/Kratugautam99/LogicLink-Project/main/Screenshots/LogicLinkwithoutLOTB.png" alt="LogicLink without LOTB" width="45%" />
+</p>
+
+A side‑by‑side comparison of LogicLink’s performance **with** and **without LOTB (Latest Output Text Box)**.  
+The difference illustrates how LOTB enhances reasoning depth and response clarity.
+
+---
+
+### 📊 Bottom Section
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kratugautam99/LogicLink-Project/main/Screenshots/LogicLinkBottom.png" alt="LogicLink Bottom Section" width="80%" />
+</p>
+
+The footer view of the interface, where conversation summaries and quick actions are displayed.  
+This ties the user experience together, making LogicLink feel like a polished, end‑to‑end assistant.
 
 ---
 <a id="-installation"></a>
