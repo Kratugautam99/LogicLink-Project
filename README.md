@@ -1,4 +1,4 @@
-# LogicLink: Version 5
+# 💬 LogicLink: Version 5
 
 **LogicLink** is a conversational AI chatbot developed by **Kratu Gautam** (AIML Engineer). Powered by the **TinyLlama-1.1B-Chat-v1.0** model, it provides an interactive interface for engaging conversations, query resolution, and task assistance. Version 5 features streaming responses, conversation management, and a sleek GUI.
 
