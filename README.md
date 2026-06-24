@@ -146,7 +146,7 @@ This ties the user experience together, making LogicLink feel like a polished, e
 ```
 LogicLink-Project/
 ├── LogicLinkVersion5.ipynb
-├── README.md
+├── README.md (This File)
 ├── app.py
 ├── config.py
 ├── .gitattributes
